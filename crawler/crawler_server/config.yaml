@@ -1,0 +1,9 @@
+mysql:
+  host: mysql
+  user: root
+  password: 123456
+  database: test
+
+zookeeper:
+  status: true
+  host: zk

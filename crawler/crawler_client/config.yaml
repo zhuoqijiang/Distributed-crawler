@@ -1,0 +1,3 @@
+zookeeper:
+  status: true
+  host: zk
